@@ -150,7 +150,7 @@ jupyter notebook AI_CNN_Final.ipynb
 
 ```bash
 # 1. Navigate to the model directory
-cd ai_model_final_s
+cd ai_model_final
 
 # 2. Create a virtual environment
 python3 -m venv .venv
