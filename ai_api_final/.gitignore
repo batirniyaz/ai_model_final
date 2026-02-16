@@ -1,0 +1,6 @@
+.idea
+.venv
+/storage
+*.pyc
+*.db
+*.sqlite3
